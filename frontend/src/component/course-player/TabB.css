@@ -1,0 +1,17 @@
+.tabs-b{
+    width: 62%;
+    margin-inline: 8%;
+}
+
+.tab-desc{
+    
+}
+
+.tab-feedback{
+   
+}
+
+.tab-text-color ul > li > a{
+    color: purple;
+    background-color: blueviolet;
+}

@@ -1,0 +1,15 @@
+.content-wrap {
+    justify-content: space-between;
+
+}
+
+.stars {
+    justify-content: flex-start;
+    vertical-align: -0.3rem;
+}
+
+.content {
+    color: white;
+    font-size: medium;
+    background-color: #1c1d1f;
+}
